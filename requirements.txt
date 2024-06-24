@@ -1,0 +1,4 @@
+agentops
+python-dotenv
+openai
+git+https://github.com/AgentOps-AI/crewAI.git@main
